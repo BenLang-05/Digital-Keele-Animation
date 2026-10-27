@@ -1,0 +1,32 @@
+Digital Keele
+
+Sprite animation by Benjamin Lang: featuring:
+
+SCENE ONE:
+Digital Keele animation
+
+A squirrel runs through the Keele university Student Union square,
+He runs towards a swaying cherry blossom tree where another squirrel sits,
+While the moving clouds rain down the binary rain on him.
+
+Graphical elements/media: 
+Both squirrel images and backgrounds loaded with loadImage() and drawn with image()
+Colour given to the binary rain with fill() and drawn with text()
+The cherry blossom tree drawn with noStroke() and rect() and coloured with fill()
+And positioned with translate()
+Branches are drawn and animated with rotate(), noise(), rect() and translate()
+While the blossom is drawn with noStroke(), fill() and ellipse()
+
+Programming:
+For loops to split up the squirrel sprites, 
+moving the backgrounds,
+randomising the position for the rain to fall from.
+Selection to create the branches of the trees.
+
+SCENE TWO:
+Credits
+Vertically scrolling centred credits displayed with text() and colour blue using fill(). 
+Credits text extracted from notepad using text() and textAlign().
+
+
+
